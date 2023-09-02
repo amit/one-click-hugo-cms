@@ -1,32 +1,30 @@
 ---
-title: Hello World!
+title: Chitpavan.org!
 subtitle: A website for all chitpawans of this world!
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why?
-  text: Foo Bar
+  text: Because, why not?
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  text: Nothing at the moment, but planning on some iterations to implement some info-pages, possibly a forum and other social apps.
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: ॐ सर्वे भवन्तु सुखिनः
+सर्वे सन्तु निरामयाः ।
+सर्वे भद्राणि पश्यन्तु
+मा कश्चिद्दुःखभाग्भवेत् ।
+ॐ शान्तिः शान्तिः शान्तिः ॥
+
+Om Sarve Bhavantu Sukhinah
+Sarve Santu Niraamayaah |
+Sarve Bhadraanni Pashyantu
+Maa Kashcid-Duhkha-Bhaag-Bhavet |
+Om Shaantih Shaantih Shaantih ||
+
+May All be Happy
+May All be Free from Illness 
+May All See what is Auspicious
+May no one Suffer
+Om Peace, Peace, Peace!
 ---
