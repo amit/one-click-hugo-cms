@@ -10,7 +10,7 @@ intro:
   text: Nothing at the moment, but planning on some iterations to implement some info-pages, possibly a forum and other social apps.
 values:
   heading: Our values
-  text: 
+  text: "
 ॐ सर्वे भवन्तु सुखिनः
 सर्वे सन्तु निरामयाः ।
 सर्वे भद्राणि पश्यन्तु
@@ -27,5 +27,5 @@ May All be Happy
 May All be Free from Illness 
 May All See what is Auspicious
 May no one Suffer
-Om Peace, Peace, Peace!
+Om Peace, Peace, Peace!"
 ---
